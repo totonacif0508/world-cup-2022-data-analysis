@@ -1,0 +1,44 @@
+# World Cup 2022 – Data Analysis (Power BI)
+
+## 📌 Project Overview
+This project analyzes data from the FIFA World Cup 2022 using Power BI.  
+The goal is to explore tournament performance, goals, teams, and matches through interactive dashboards and clear visualizations.
+
+## 🎯 Objectives
+- Analyze overall tournament statistics
+- Explore team performance and goal distribution
+- Provide an interactive dashboard for data exploration
+
+## 🛠️ Tools Used
+- Power BI
+- DAX
+- Data cleaning and transformation
+- CSV datasets
+
+## 📊 Key Metrics
+- Total matches
+- Total goals
+- Average goals per match
+- Team performance metrics
+
+## 📷 Dashboard Preview
+
+### KPI Overview
+![KPI Overview](screenshots/kpi_overview.png)
+
+### Team Analysis
+![Team Analysis](screenshots/team_analysis.png)
+
+### Match Details
+![Match Details](screenshots/match_details.png)
+
+## 🗄️ Data Source
+The datasets used in this project are based on publicly available World Cup 2022 data and were cleaned and transformed for analysis.
+
+## 📁 Repository Structure
+- `world_cup_2022.pbix` → Power BI dashboard
+- `data/` → datasets used
+- `screenshots/` → dashboard previews
+
+## 📈 Outcome
+The dashboard provides a clear overview of the World Cup 2022, enabling users to explore key insights and performance metrics through an intuitive interface.
